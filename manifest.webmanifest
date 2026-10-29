@@ -1,0 +1,14 @@
+{
+  "name": "Darzi Dukaan — Naap se Delivery Tak",
+  "short_name": "Darzi Dukaan",
+  "description": "Dukaan ke naap, orders, hisaab aur reports ek jagah.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f6f1",
+  "theme_color": "#183c31",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
